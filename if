@@ -1,0 +1,67 @@
+#include<iostream>
+using namespace std;
+int main() {
+
+
+	
+	
+	//int catage, dogage ;
+	//cin >> catage>>dogage;
+
+	//if (catage > 0 && catage <= 25) { cout << "OK cats age" << endl; }
+	//else cout << "unrealistic cat age" << endl;
+
+	//if (dogage > 0 && dogage <= 30) { cout << "OK dogs age" << endl; }
+	//else cout << "unrealistic dog age" << endl;
+
+	//cout << "Exit";
+
+
+
+
+	//int mark, age, heigh;
+	//cin >> mark >> age >> heigh;
+
+	//if (mark > 0 && mark <= 10) { cout << "OK" << endl; }
+	//else cout << "Unreal mark" << endl;
+
+	//if (age > 0 && age <= 100) { cout << "OK" << endl; }
+	//else cout << "Unreal age" << endl;
+
+	//if (heigh > 30 && heigh <= 300) { cout << "OK" << endl; }
+	//else  cout << "Unreal hegh or mutation" << endl;
+
+	//cout << "Exit";
+
+
+
+
+	//int age = 1;
+	//string p = "Yamantau", pin;
+	//cin >> pin;
+	//if (p == pin) { cout << "OK " << age; }
+	//else cout << "Wrong pasword";
+	
+	
+	
+	
+	
+	
+	/*int age = 23;
+
+	cout << "----------------------------" << endl << "Login  :    ";
+	string log = "Mander", Login;
+	cin >> Login;
+	cout << "----------------------------"<<endl;
+	cout << "Password  :    ";
+	string p = "Mirki", pin;
+	cin >> pin;
+	cout << "----------------------------"<<endl;
+	if (p == pin && log == Login) { cout << "Your age " << age; }
+	else cout << "Wrong password";*/
+
+
+
+
+
+}
