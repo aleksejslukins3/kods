@@ -1,0 +1,90 @@
+#include<iostream>
+using namespace std;
+int main() {
+
+	///*int x , y  ;
+
+	//cin >> x >> y;
+
+	//if (x > y) { cout << "x - maksimalais | y - minimalais"; }
+	//else cout << "y - maksimalais | x - minimalais";
+
+
+
+	//if (x < 0 ) { cout << "x - negativs"; }
+	//else cout << "x - pozitivs";
+
+	//if (y < 0) { cout << "y - negativs"; }
+	//else cout << "y - pozitivs";
+
+	//
+
+	//if (x % 2 == 0) { cout << "x - para"; }
+	//else cout << "x - nepara";
+	//
+	
+	//if (y%2==0) {cout << "y - para";}
+	//else cout << "y - nepara";*/
+
+
+	/*int x;
+
+	cin >> x;
+
+
+	if (x >= 90 && x < 101) { cout << "Grade A"; }
+	if (x >= 80 && x < 90) { cout << "Grade B"; }
+	if (x >= 70 && x < 80) { cout << "Grade C"; }
+	if (x >= 60 && x < 70) { cout << "Grade D"; }
+	if (x >= 40 && x < 60) { cout << "Grade E"; }
+	if (x <= 39 && x >= 0) { cout << "Grade F"; }
+	else cout << "Unreal procentage";*/
+
+
+	/*int d, m;
+
+	cin >> d >> m;
+
+	if (d == 1) { cout << "Pirmdiena "; }
+	if (d == 2) { cout << "Otrdiena"; }
+	if (d == 3) { cout << "Trešdiena"; }
+	if (d == 4) { cout << "Ceturtdiena"; }
+	if (d == 5) { cout << "Piektdiena"; }
+	if (d == 6) { cout << "Sestdiena"; }
+	if (d == 7) { cout << "Svetdiena"; }
+
+
+	if (m == 1) { cout << "Janvāris"; }
+	if (m == 2) { cout << "Februāris"; }
+	if (m == 3) { cout << "Marts"; }
+	if (m == 4) { cout << "Aprīlis"; }
+	if (m == 5) { cout << "Maijs"; }
+	if (m == 6) { cout << "Jūnijs "; }
+	if (m == 7) { cout << "Jūlijs"; }
+	if (m == 8) { cout << "Augusts"; }
+	if (m == 9) { cout << "Septembris"; }
+	if (m == 10) { cout << "Oktobris"; }
+	if (m == 11) { cout << "Novembris"; }
+	if (m == 12) { cout << "Decembris"; }
+
+	else cout << "Nereala diena vai menēsis";*/
+
+
+
+	int a, b, c;
+
+	cin>> a >> b >> c;
+
+	if (a == b && b == c) { cout << "Vienādmalu trijstūris"; }
+	if (a == b || b == c || a == c) { cout << "Vienadsānu trijstūris"; }
+
+	else cout << "cits trijstūru veids";
+
+
+
+
+
+
+
+
+}
